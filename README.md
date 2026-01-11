@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning Python, but hope to learn HTML, JavaScript, CSS one day too! I am a beginner in coding so I hope to actually do something with it! Come on by, have a cup of coffee, and let's chat! am a freelance writer and have a BS in Psychology.
+I am currently learning Python, but hope to learn HTML, JavaScript, CSS one day too! I am a beginner in coding so I hope to actually do something with it! Come on by, have a cup of coffee, and let's chat! I am a freelance writer and have a BS in Psychology.
 
 
 ## 🌐 Socials:
