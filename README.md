@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building a widget!<br>👯 I’m looking to collaborate on smaller projects! At least until I can get a few months of learning Python under my belt<br>🤝 I’m looking for help with everything...<br>🌱 I’m currently learning python!<br>💬 Ask me about anything! I am a freelance writer and have a BS in Psychology.
+I am currently learning Python, but hope to learn HTML, JavaScript, CSS one day too! I am a beginner in coding so I hope to actually do something with it! Come on by, have a cup of coffee, and let's chat! am a freelance writer and have a BS in Psychology.
 
 
 ## 🌐 Socials:
@@ -7,10 +7,6 @@
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kamsapothecary&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kamsapothecary&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kamsapothecary&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
